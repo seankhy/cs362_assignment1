@@ -1,0 +1,1 @@
+var command_l = process.argv[2];
